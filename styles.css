@@ -1,5 +1,9 @@
 body 
-{background-color: orange;
+{background-color: red;
+}
+
+h2 {
+    color: red;
 }
 
 p{ color: #77ACA2;
@@ -7,3 +11,4 @@ p{ color: #77ACA2;
 li{
     color: green;
 }
+
