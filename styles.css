@@ -1,2 +1,9 @@
-body {background-color: orange;
+body 
+{background-color: orange;
+}
+
+p{ color: black;
+}
+li{
+    color: green;
 }
