@@ -1,16 +1,41 @@
 body 
-{background-color: red;
+{background-color: rgb(239, 235, 226); 
+font-family: "Roboto", sans-serif, 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
+}
+font-family: "<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+
+h1 {
+    color: black;
 }
 
-h2 {
-    color: red;
-}
-
-p{ color: #77ACA2;
+p{ color: black;
 }
 li{
-    color: green;
+    color: black;
 }
 
 h1{ font-family: Arial, Helvetica, sans-serif;
 }
+li {
+
+
+    color: black;
+    font-style:oblique;
+    font-weight: bold;
+    font-size: 50 px;
+}
+
+h2{ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{color: black;
+}
+
+h5{color: black;
+}
+
+
+h5{color: black;
+}
+
