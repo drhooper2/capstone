@@ -209,10 +209,19 @@ background-color: rgb(241, 197, 114);
     height: 50%;
     url(website images/website images/First Peoples Principles of Learning.png)}
 
-.header id where-are-we {
-    font-weight: bold;
-    font-size: 36px;
+body {
+    background-color: lightorange;
+    color: blue;
 }
+    
+body {
+    font-family: "Times-New-Roman"
+    background-color: slategray;
+    color: purple;
+    color: green;
+    color: black;
+}
+
 
 footer {
     border-top: 3px solid grey;
