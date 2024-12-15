@@ -190,42 +190,28 @@ font-family: monaco;
 font-style:calc;
 font-weight:bold;
 color: black;
-background: url(https://th.bing.com/th/id/OIP.cf-x-wlY4QpE-gi-sArzdAHaB8?rs=1&pid=ImgDetMain);
+/*background: url(https://th.bing.com/th/id/OIP.cf-x-wlY4QpE-gi-sArzdAHaB8?rs=1&pid=ImgDetMain);
 opacity: .50;
 repeat: no-repeat;
 background-size: center;
-}
+}*/
 
-.TRC-photo {
-    width: 100%;
-    height: 100%;
-    background-image: url("website images/website images/OIP.jpg");   background-repeat: no-repeat;
-    background-size: 100%;
-}
-.TRC-photo {
-    background-image: url("website images/website images/OIP.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
+
 }
 
 .TRC2-photo {
-    width: 100%;
-    
+    width: 50%;
+    height: 50%;
     background-image: url("website images/website images/220929044133.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 50%;
 }
 
 .poster {
     width:25%;
     height: 50%;
     url(website images/website images/First Peoples Principles of Learning.png)}
-
-body {
-    background-color: lightorange;
-    color: blue;
-}
-    
+  
 body {
     font-family: "Times-New-Roman"
     background-color: slategray;
@@ -236,7 +222,6 @@ body {
 
 
 footer {
-    border-top: 3px solid black;
     font-size: 8px;
     
 }
