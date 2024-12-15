@@ -15,7 +15,7 @@ img {
 
 
  header {
-        border-bottom: 5px solid rgb(80, 11, 11);
+        border-bottom: 3px solid rgb(80, 11, 11);
         
         
     /*
@@ -87,8 +87,9 @@ li{
 }
 
 
-h1{ 
+h1 { 
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
 }
 li {
     color: black;
@@ -109,9 +110,11 @@ h5{color: black;
 
 
 h1 {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: bold;
     font-style: italic;
+    text-align: center;
+    text-decoration: underline;
 }
 
    
@@ -121,10 +124,6 @@ h3 {
 
 p {
     line-height: 2;
-}
-
-header h1 {
-    text-align: center;
 }
 
 a {
@@ -143,9 +142,9 @@ h2 {
     text-align: center;
 }
 /* this is for an image sizing and can be done in % or px size; use the name you have saved it in as a div class="living room" */
+
 .TRC {
     max-width: 90%;
-
     display: block;
 }
 
@@ -153,7 +152,6 @@ h2 {
     max-width: 1000px;
     font-size: 24; 
     font-weight: bold;
-    border: 3px solid black;
     background: rgb(241, 197, 114);
     margin: 
 
@@ -185,9 +183,9 @@ width: 1000px;*/
 }
 
 .dedication {
-font-size: 20px;
+font-size: 14px;
 font-family: monaco;
-font-style:calc;
+font-style: italic;
 font-weight:bold;
 color: black;
 /*background: url(https://th.bing.com/th/id/OIP.cf-x-wlY4QpE-gi-sArzdAHaB8?rs=1&pid=ImgDetMain);
@@ -200,11 +198,8 @@ background-size: center;
 }
 
 .TRC2-photo {
-    width: 50%;
-    height: 50%;
-    background-image: url("website images/website images/220929044133.png");
-    background-repeat: no-repeat;
-    background-size: 50%;
+   
+    
 }
 
 .poster {
@@ -220,9 +215,21 @@ body {
     color: black;
 }
 
+.image {
+    border: left-width;
+    width: 1000px;
+    height: 300px;
+    
+}
+
+
 
 footer {
     font-size: 8px;
     
+}
+
+.text-undeerline {
+    text-decoration: underline;
 }
 
