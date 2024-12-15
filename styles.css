@@ -8,9 +8,11 @@ h1 {
 }
 
 imgage {
-    width: 200px;
-    height: 400px;
+    image-rendering: unset;
+    width: 300px;
+    height: 100px;
     width: auto;
+    line-height: zero;
 }
 
 
@@ -39,9 +41,6 @@ imgage {
         
     }
     
-    h1 {
-        margin: 30px 0;
-    }
     p {
         margin: 15px 0;
     }
@@ -234,3 +233,6 @@ footer {
     text-decoration: underline;
 }
 
+.postpost-features {
+    line-height: 0;
+}
