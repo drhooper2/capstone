@@ -157,6 +157,10 @@ h2 {
 
 }
 
+
+.everyone {
+    width: 5%;
+}
 p {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -207,6 +211,12 @@ background-size: center;
     height: 50%;
     url(website images/website images/First Peoples Principles of Learning.png)}
   
+.orange-shirt {
+    width: 25%;
+    height: 50%;
+    url(https://www.bing.com/th?id=OIP.bZiVH1ftcXamyDVs4x3c4QHaEc&w=165&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)}
+
+
 body {
     font-family: "Times-New-Roman"
     background-color: slategray;
