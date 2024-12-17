@@ -159,20 +159,23 @@ h2 {
 /* style the image container */
 .image-container {
     position: relative;
-    width: 500px;
-    height: 300px;
+    width: 750px;
+    height: 200px;
     display: inline-block;
+   
 }
 /* style the image */
 .image-container img{
     width: 100%;
-    height: auto;
-    display: block;
+    height: 70%;
+    display: inline-block;
+ 
+   
 }
 /* style the text overlay */
 .text-overlay {
     position: absolute;
-    top: 50%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%;)
     color: white;
@@ -181,9 +184,15 @@ h2 {
     text-align: rgba(0, 0, 0, 0.5);
     padding: 10px;
     border-radius: 8px;
-    
+  
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
 
 
 .everyone {
