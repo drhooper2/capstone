@@ -159,19 +159,19 @@ h2 {
 /* style the image container */
 .image-container {
     position: relative;
-    width: 250px;
-    height: 150px;
+    width: 500px;
+    height: 300px;
     display: inline-block;
    
 }
 /* style the image */
 .image-container img{
-    width: 50%;
+    width: 75%;
     height: auto;
     display: block;
     margin-left: 100px;
     text-align: center;
-    float: right;
+    
  
    
 }
@@ -193,9 +193,6 @@ h2 {
 
 
 
-.everyone {
-    width: 5%;
-}
 p {
     margin-top: 10px;
     margin-bottom: 20px;
