@@ -154,41 +154,6 @@ h2 {
     font-weight: bold;
     background: rgb(241, 197, 114);
     margin: 
-
-}
-/* style the image container */
-.image-container {
-    position: relative;
-    width: 500px;
-    height: 300px;
-    display: inline-block;
-   
-}
-/* style the image */
-.image-container img{
-    width: 75%;
-    height: auto;
-    display: block;
-    margin-left: 100px;
-    text-align: center;
-    
- 
-   
-}
-/* style the text overlay */
-.text-overlay {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%;)
-    color: black;
-    font-size: 24px;
-    font-weight: bold;
-    text-align; center
-    background: rgba(0, 0, 0, 0.5);
-    padding: 10px;
-    border-radius: 8px;
-  
 }
 
 
@@ -198,16 +163,6 @@ p {
     margin-bottom: 20px;
     margin-right: 30px;
     margin-left: 0;
-}
-
-.container {
-   
-    display: flex; 
-    justify-content: space-around;
-    align-items: center;
-    font-size: 36;
-    line-height: 2;
-    height: 50%;
 }
 
 
