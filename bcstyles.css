@@ -1,0 +1,17 @@
+.container {
+    wideth: 100%;
+    overflow: hidden;
+}
+
+.image {
+    float: left; /*moves image to the left */
+    margin-right: 15px; /* adds spacing between the image and the text */
+    width: 150px; /* adjusts image size */
+    height: auto; /* maintains aspet ratio */
+
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5; /*improves text read-ability */
+} 
