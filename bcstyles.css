@@ -1,23 +1,18 @@
 .container {
-    width: 25%;
-    overflow: hidden;
+    display: flex;
+    align-items: center;
+    gap: 15px;
 }
 
-img {
-    float: left; /*moves image to the left */
-    margin-right: 15px; /* adds spacing between the image and the text */
-    width: 24%; /* adjusts image size */
-    height: auto; /* maintains aspet ratio */
+.image {
+    width: 150px;
+    height: auto;
 
 }
 
 p {
-    font-size: 24px;
-    line-height: 1.5; /*improves text read-ability */
-} 
-
-img {
-    max-width: 100%;
-    width: 200px;
-    height: auto;
+    font-size: 16px;
+    line-height: 1.5; 
+    margin: 0;
 }
+
