@@ -234,3 +234,15 @@ footer {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* optional shadow for style */
     color: black; /* text color
     */
+
+    body {
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        line-height: 1.5;
+        background-color: gray;
+    }
+
+   .image {
+    position: relative;
+    top: 30px;
+   }
