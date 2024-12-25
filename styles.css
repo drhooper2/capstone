@@ -18,8 +18,8 @@ imgage {
 
 
  header {
-        border-bottom: 3px solid rgb(80, 11, 11);
-        
+        border-bottom: 4px solid rgb(80, 11, 11);
+ }
         
     /*
     section {
@@ -153,6 +153,7 @@ h2 {
     max-width: 1000px;
     font-size: 24; 
     font-weight: bold;
+  
    
     margin: 
 }
@@ -246,3 +247,13 @@ footer {
     position: relative;
     top: 30px;
    }
+
+.container2 {
+    display: flex;
+    align-items: left;
+    gap: 10px;
+}
+.image {
+    width: 300px;
+    height: 200px;
+}
