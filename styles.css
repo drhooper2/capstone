@@ -1,7 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html>
-<head>
-    <title>Practicing Code</title>
+
+
 
 h1 {
     font-size: 46px;
@@ -28,7 +26,7 @@ imgage {
         margin: 30px;
         padding: 30px
         */
-    }
+    
     section {
         width: 50%;
     }
@@ -153,9 +151,6 @@ h2 {
     max-width: 1000px;
     font-size: 24; 
     font-weight: bold;
-  
-   
-    margin: 
 }
 
 p {
@@ -194,16 +189,18 @@ background-size: center;
 .poster {
     width:50%;
     height: 100%;
-    url(website images/website images/First Peoples Principles of Learning.png)}
+    url(website images/website images/First Peoples Principles of Learning.png)
+}
   
 .orange-shirt {
     width: 25%;
     height: 50%;
-    url(https://www.bing.com/th?id=OIP.bZiVH1ftcXamyDVs4x3c4QHaEc&w=165&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)}
+    url(https://www.bing.com/th?id=OIP.bZiVH1ftcXamyDVs4x3c4QHaEc&w=165&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
+}
 
 
 body {
-    font-family: "Times-New-Roman"
+    font-family: Times-New-Roman;
     background-color: slategray;
     color: purple;
     color: green;
@@ -222,7 +219,7 @@ footer {
 
 .text-undeerline {
     text-decoration: underline;
-}
+
 
 /* this is how to create a text box 
 .text-box {
@@ -236,6 +233,7 @@ footer {
     color: black; /* text color
     */
 
+}
     body {
         font-family:Arial, Helvetica, sans-serif;
         font-size: 12px;
